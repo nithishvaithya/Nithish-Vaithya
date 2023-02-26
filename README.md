@@ -1,2 +1,2 @@
-# Nithish-Vaithya
+# Intermediate - DSA
 Problems are free with solutions
